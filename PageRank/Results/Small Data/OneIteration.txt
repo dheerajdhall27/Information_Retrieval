@@ -1,0 +1,7 @@
+Iteration: 1
+Node ID: 0 Node name: A Page Rank: 0.24930555555555556
+Node ID: 1 Node name: B Page Rank: 0.11944444444444445
+Node ID: 2 Node name: C Page Rank: 0.14305555555555555
+Node ID: 3 Node name: D Page Rank: 0.13125
+Node ID: 4 Node name: E Page Rank: 0.2138888888888889
+Node ID: 5 Node name: F Page Rank: 0.14305555555555555

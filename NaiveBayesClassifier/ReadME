@@ -1,0 +1,111 @@
+This Program is used to create a model for the NAIVE BAYES CLASSIFIER.
+All the modelFiles and prediction files can be found in the resources folder associated with each Code base
+
+1) NaiveBayesClassifier : Has model files for Laplace Smoothing
+2) NaiveBayesClassifierExtraCreditSmoothing: Has model files for Dirichlet smoothing and Jelinek-Mercer smoothing
+3) NaiveBayesClassifierExtraCreditFeatures: Has model files for Bigrams and smoothing related files
+
+The Top 20 files are contained in the NaiveBayesClassifier resources folder
+
+========================================================================================================================
+STEPS TO RUN THE PROGRAM
+========================================================================================================================
+
+Unzip the folder Dheeraj_Kumar_Dhall_HW4.zip
+This program was created in PyCharm using Python "3.7.4"
+1) Make sure that the textcat file is present in the root directory and a resources folder is present in the root directory
+2) First step in running the program is to make sure that proper command line arguments are supplied.
+   Run the nbTrain file first.
+   a) If Running in PyCharm: Under RUN -> Edit Configuration -> setup these command line arguments
+      1) "textcat/train" "resources/model.txt"
+      2) This would create the model-file under the resources folder
+   b) If Running using command prompt then supply the above as the command line arguments also make sure the folder
+      structure is maintained.
+	  Before supplying these commands navigate to the root directory
+	  Command for train: nbTrain.py textcat/train resources/model-file.txt
+	  Command for test:  nbTest.py resources/model-file.txt textcat/test prediction-file.txt
+	  
+	  The program should work for any ouputpath specified
+
+3) After running the nbTrain.py a "model-file" should be created in the resources folder.
+4) To test the model use the nbTest file, which accepts the command line in this order.
+   "resources/model-file.txt" "textcat/test" "predictions-file.txt" : For test data
+   "resources/model-file.txt" "textcat/dev/pos" "predictions-file-dev.txt" : For dev data
+5) nbTest classifies the dev data into positive or negative. It also produces the Top 20 words (NEG TO POS and POS TO NEG)
+6) In a similar way the code in other folders (NaiveBayesClassifierExtraCreditFeatures, NaiveBayesClassifierExtraCreditSmoothing)
+   could be run
+
+
+
+The Results for Extra credit is in the resources folder
+========================================================================================================================
+1) NaiveBayesClassifierExtraCreditSmoothing has data related to two smoothing techniques
+   a) Jelinek-Mercer Smoothing
+   b) Dirichlet Smoothing
+2) NaiveBayesClassifierExtraCreditFeatures has data related to features
+   a) bigrams are used and special characters are removed
+   b) The model-file uses Laplace smoothing with above features
+   c) The model-file-DS uses Dirichlet smoothing with above features
+   d) The model-file-JM uses Jelinek-Mercer smoothing with above features
+   e) Similarly Prediction files exist for all of them
+
+RESULTS INFORMATION (INCLUDES EXTRA CREDIT)
+
+========================================================================================================================
+
+1) Bag of Words, NAIVE BAYES CLASSIFIER using Laplace smoothing
+
+TRAINING DATA:
+--------------
+Positive data accuracy: 92.75 %
+Negative data accuracy: 97 %
+
+
+DEV DATA:
+---------
+Positive data accuracy: 75 %
+Negative data accuracy: 80 %
+
+TEST DATA:
+---------
+Number of Positive Files classified:  90
+Number of Negative Files classified: 110
+
+========================================================================================================================
+
+EXTRA CREDIT RESULTS
+========================================================================================================================
+
+Bag of words, NAIVE BAYES CLASSIFIER using Dirichlet Smoothing
+
+DEV DATA:
+---------
+Positive data accuracy: 69 %
+Negative data accuracy: 79 %
+
+========================================================================================================================
+
+Bag of words, NAIVE BAYES CLASSIFIER using Jelinek-Mercer Smoothing
+
+DEV DATA:
+---------
+Positive data accuracy: 79 %
+Negative data accuracy: 80 %
+
+========================================================================================================================
+
+Bigrams with special characters removed, NAIVE BAYES CLASSIFIER using Dirichlet Smoothing
+
+DEV DATA:
+---------
+Positive data accuracy: 81 %
+Negative data accuracy: 70 %
+
+========================================================================================================================
+
+Bigrams with special characters removed, NAIVE BAYES CLASSIFIER using Jelinek-Mercer Smoothing
+
+DEV DATA:
+---------
+Positive data accuracy: 85 %
+Negative data accuracy: 82 %

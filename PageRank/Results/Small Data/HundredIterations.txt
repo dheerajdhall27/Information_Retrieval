@@ -1,0 +1,700 @@
+Iteration: 1
+Node ID: 0 Node name: A Page Rank: 0.24930555555555556
+Node ID: 1 Node name: B Page Rank: 0.11944444444444445
+Node ID: 2 Node name: C Page Rank: 0.14305555555555555
+Node ID: 3 Node name: D Page Rank: 0.13125
+Node ID: 4 Node name: E Page Rank: 0.2138888888888889
+Node ID: 5 Node name: F Page Rank: 0.14305555555555555
+Iteration: 2
+Node ID: 0 Node name: A Page Rank: 0.27522858796296296
+Node ID: 1 Node name: B Page Rank: 0.1361689814814815
+Node ID: 2 Node name: C Page Rank: 0.14890914351851853
+Node ID: 3 Node name: D Page Rank: 0.11118055555555556
+Node ID: 4 Node name: E Page Rank: 0.17960358796296297
+Node ID: 5 Node name: F Page Rank: 0.14890914351851853
+Iteration: 3
+Node ID: 0 Node name: A Page Rank: 0.24347984182098764
+Node ID: 1 Node name: B Page Rank: 0.14517235725308641
+Node ID: 2 Node name: C Page Rank: 0.15554320987654321
+Node ID: 3 Node name: D Page Rank: 0.1172222945601852
+Node ID: 4 Node name: E Page Rank: 0.18303908661265433
+Node ID: 5 Node name: F Page Rank: 0.15554320987654321
+Iteration: 4
+Node ID: 0 Node name: A Page Rank: 0.2495635373464828
+Node ID: 1 Node name: B Page Rank: 0.1380565313143004
+Node ID: 2 Node name: C Page Rank: 0.14974481869293338
+Node ID: 3 Node name: D Page Rank: 0.12195499011381174
+Node ID: 4 Node name: E Page Rank: 0.19093530383953833
+Node ID: 5 Node name: F Page Rank: 0.14974481869293338
+Iteration: 5
+Node ID: 0 Node name: A Page Rank: 0.255638142292457
+Node ID: 1 Node name: B Page Rank: 0.13813736754450123
+Node ID: 2 Node name: C Page Rank: 0.15096211721831065
+Node ID: 3 Node name: D Page Rank: 0.11797856084878552
+Node ID: 4 Node name: E Page Rank: 0.18632169487763497
+Node ID: 5 Node name: F Page Rank: 0.15096211721831065
+Iteration: 6
+Node ID: 0 Node name: A Page Rank: 0.251216484704878
+Node ID: 1 Node name: B Page Rank: 0.14020340686138416
+Node ID: 2 Node name: C Page Rank: 0.15185544176643626
+Node ID: 3 Node name: D Page Rank: 0.11851309042098854
+Node ID: 4 Node name: E Page Rank: 0.1863561344798768
+Node ID: 5 Node name: F Page Rank: 0.15185544176643626
+Iteration: 7
+Node ID: 0 Node name: A Page Rank: 0.25161245452284564
+Node ID: 1 Node name: B Page Rank: 0.1392037125002057
+Node ID: 2 Node name: C Page Rank: 0.15115525967221963
+Node ID: 3 Node name: D Page Rank: 0.11933178670877956
+Node ID: 4 Node name: E Page Rank: 0.1875415269237299
+Node ID: 5 Node name: F Page Rank: 0.15115525967221963
+Iteration: 8
+Node ID: 0 Node name: A Page Rank: 0.25259562613458164
+Node ID: 1 Node name: B Page Rank: 0.13911751902193514
+Node ID: 2 Node name: C Page Rank: 0.15122898903004897
+Node ID: 3 Node name: D Page Rank: 0.11882177426698705
+Node ID: 4 Node name: E Page Rank: 0.18700710251639827
+Node ID: 5 Node name: F Page Rank: 0.15122898903004897
+Iteration: 9
+Node ID: 0 Node name: A Page Rank: 0.25205387772918714
+Node ID: 1 Node name: B Page Rank: 0.13941697429664535
+Node ID: 2 Node name: C Page Rank: 0.15138086056202746
+Node ID: 3 Node name: D Page Rank: 0.11883479312993203
+Node ID: 4 Node name: E Page Rank: 0.18693263372018065
+Node ID: 5 Node name: F Page Rank: 0.15138086056202746
+Iteration: 10
+Node ID: 0 Node name: A Page Rank: 0.2520363760281719
+Node ID: 1 Node name: B Page Rank: 0.1393065091825108
+Node ID: 2 Node name: C Page Rank: 0.1512937659347507
+Node ID: 3 Node name: D Page Rank: 0.11896297277689881
+Node ID: 4 Node name: E Page Rank: 0.18710661014291713
+Node ID: 5 Node name: F Page Rank: 0.1512937659347507
+Iteration: 11
+Node ID: 0 Node name: A Page Rank: 0.25218681735141657
+Node ID: 1 Node name: B Page Rank: 0.13927687355616142
+Node ID: 2 Node name: C Page Rank: 0.15129257145768993
+Node ID: 3 Node name: D Page Rank: 0.11890248372355258
+Node ID: 4 Node name: E Page Rank: 0.1870486824534896
+Node ID: 5 Node name: F Page Rank: 0.15129257145768993
+Iteration: 12
+Node ID: 0 Node name: A Page Rank: 0.2521243864563999
+Node ID: 1 Node name: B Page Rank: 0.13931916016258017
+Node ID: 2 Node name: C Page Rank: 0.15131604500484058
+Node ID: 3 Node name: D Page Rank: 0.11889567850020252
+Node ID: 4 Node name: E Page Rank: 0.18702868487113625
+Node ID: 5 Node name: F Page Rank: 0.15131604500484058
+Iteration: 13
+Node ID: 0 Node name: A Page Rank: 0.252112593239797
+Node ID: 1 Node name: B Page Rank: 0.13930812224735148
+Node ID: 2 Node name: C Page Rank: 0.15130589604515463
+Node ID: 3 Node name: D Page Rank: 0.11891464066160554
+Node ID: 4 Node name: E Page Rank: 0.18705285176093672
+Node ID: 5 Node name: F Page Rank: 0.15130589604515463
+Iteration: 14
+Node ID: 0 Node name: A Page Rank: 0.25213428901684787
+Node ID: 1 Node name: B Page Rank: 0.13930190529740294
+Node ID: 2 Node name: C Page Rank: 0.15130423853609584
+Node ID: 3 Node name: D Page Rank: 0.11890798179675291
+Node ID: 4 Node name: E Page Rank: 0.18704734681680454
+Node ID: 5 Node name: F Page Rank: 0.15130423853609584
+Iteration: 15
+Node ID: 0 Node name: A Page Rank: 0.25212772517798765
+Node ID: 1 Node name: B Page Rank: 0.13930758280666738
+Node ID: 2 Node name: C Page Rank: 0.15130764956228168
+Node ID: 3 Node name: D Page Rank: 0.11890595625353885
+Node ID: 4 Node name: E Page Rank: 0.18704343663724265
+Node ID: 5 Node name: F Page Rank: 0.15130764956228168
+Iteration: 16
+Node ID: 0 Node name: A Page Rank: 0.25212493755484644
+Node ID: 1 Node name: B Page Rank: 0.13930668950974298
+Node ID: 2 Node name: C Page Rank: 0.15130656585072366
+Node ID: 3 Node name: D Page Rank: 0.11890861241038654
+Node ID: 4 Node name: E Page Rank: 0.18704662882357667
+Node ID: 5 Node name: F Page Rank: 0.15130656585072366
+Iteration: 17
+Node ID: 0 Node name: A Page Rank: 0.25212790829495235
+Node ID: 1 Node name: B Page Rank: 0.1393055926315782
+Node ID: 2 Node name: C Page Rank: 0.1513061506319007
+Node ID: 3 Node name: D Page Rank: 0.11890796200737795
+Node ID: 4 Node name: E Page Rank: 0.1870462358022901
+Node ID: 5 Node name: F Page Rank: 0.1513061506319007
+Iteration: 18
+Node ID: 0 Node name: A Page Rank: 0.2521273183708863
+Node ID: 1 Node name: B Page Rank: 0.1393063166959417
+Node ID: 2 Node name: C Page Rank: 0.15130662104434803
+Node ID: 3 Node name: D Page Rank: 0.11890755245276817
+Node ID: 4 Node name: E Page Rank: 0.18704557039170785
+Node ID: 5 Node name: F Page Rank: 0.15130662104434803
+Iteration: 19
+Node ID: 0 Node name: A Page Rank: 0.2521267990250635
+Node ID: 1 Node name: B Page Rank: 0.1393062828343164
+Node ID: 2 Node name: C Page Rank: 0.15130652073251866
+Node ID: 3 Node name: D Page Rank: 0.11890790624173553
+Node ID: 4 Node name: E Page Rank: 0.18704597043384735
+Node ID: 5 Node name: F Page Rank: 0.15130652073251866
+Iteration: 20
+Node ID: 0 Node name: A Page Rank: 0.2521271858193527
+Node ID: 1 Node name: B Page Rank: 0.13930610726464826
+Node ID: 2 Node name: C Page Rank: 0.15130644156909567
+Node ID: 3 Node name: D Page Rank: 0.11890785641361266
+Node ID: 4 Node name: E Page Rank: 0.18704596736419507
+Node ID: 5 Node name: F Page Rank: 0.15130644156909567
+Iteration: 21
+Node ID: 0 Node name: A Page Rank: 0.2521271501920356
+Node ID: 1 Node name: B Page Rank: 0.13930619442672704
+Node ID: 2 Node name: C Page Rank: 0.15130650326378037
+Node ID: 3 Node name: D Page Rank: 0.11890778546060342
+Node ID: 4 Node name: E Page Rank: 0.18704586339307322
+Node ID: 5 Node name: F Page Rank: 0.15130650326378037
+Iteration: 22
+Node ID: 0 Node name: A Page Rank: 0.25212706421922826
+Node ID: 1 Node name: B Page Rank: 0.1393062018124812
+Node ID: 2 Node name: C Page Rank: 0.15130649661380113
+Node ID: 3 Node name: D Page Rank: 0.11890783020278616
+Node ID: 4 Node name: E Page Rank: 0.18704591053790215
+Node ID: 5 Node name: F Page Rank: 0.15130649661380113
+Iteration: 23
+Node ID: 0 Node name: A Page Rank: 0.2521271119158859
+Node ID: 1 Node name: B Page Rank: 0.13930617556935831
+Node ID: 2 Node name: C Page Rank: 0.15130648333202565
+Node ID: 3 Node name: D Page Rank: 0.11890782894601774
+Node ID: 4 Node name: E Page Rank: 0.18704591690468678
+Node ID: 5 Node name: F Page Rank: 0.15130648333202565
+Iteration: 24
+Node ID: 0 Node name: A Page Rank: 0.2521271132974198
+Node ID: 1 Node name: B Page Rank: 0.13930618532024158
+Node ID: 2 Node name: C Page Rank: 0.15130649100235172
+Node ID: 3 Node name: D Page Rank: 0.11890781772459955
+Node ID: 4 Node name: E Page Rank: 0.18704590165303558
+Node ID: 5 Node name: F Page Rank: 0.15130649100235172
+Iteration: 25
+Node ID: 0 Node name: A Page Rank: 0.25212710012222395
+Node ID: 1 Node name: B Page Rank: 0.13930618788493526
+Node ID: 2 Node name: C Page Rank: 0.15130649108129768
+Node ID: 3 Node name: D Page Rank: 0.11890782305655082
+Node ID: 4 Node name: E Page Rank: 0.18704590677369454
+Node ID: 5 Node name: F Page Rank: 0.15130649108129768
+Iteration: 26
+Node ID: 0 Node name: A Page Rank: 0.25212710563019175
+Node ID: 1 Node name: B Page Rank: 0.13930618417433116
+Node ID: 2 Node name: C Page Rank: 0.15130648902636257
+Node ID: 3 Node name: D Page Rank: 0.11890782363510025
+Node ID: 4 Node name: E Page Rank: 0.18704590850765163
+Node ID: 5 Node name: F Page Rank: 0.15130648902636257
+Iteration: 27
+Node ID: 0 Node name: A Page Rank: 0.2521271066447654
+Node ID: 1 Node name: B Page Rank: 0.1393061851526904
+Node ID: 2 Node name: C Page Rank: 0.15130648992139184
+Node ID: 3 Node name: D Page Rank: 0.11890782197324945
+Node ID: 4 Node name: E Page Rank: 0.18704590638651097
+Node ID: 5 Node name: F Page Rank: 0.15130648992139184
+Iteration: 28
+Node ID: 0 Node name: A Page Rank: 0.2521271047422442
+Node ID: 1 Node name: B Page Rank: 0.13930618569374456
+Node ID: 2 Node name: C Page Rank: 0.1513064900636124
+Node ID: 3 Node name: D Page Rank: 0.11890782256153824
+Node ID: 4 Node name: E Page Rank: 0.1870459068752481
+Node ID: 5 Node name: F Page Rank: 0.1513064900636124
+Iteration: 29
+Node ID: 0 Node name: A Page Rank: 0.25212710532297794
+Node ID: 1 Node name: B Page Rank: 0.13930618519499272
+Node ID: 2 Node name: C Page Rank: 0.1513064897645501
+Node ID: 3 Node name: D Page Rank: 0.11890782273695599
+Node ID: 4 Node name: E Page Rank: 0.18704590721597306
+Node ID: 5 Node name: F Page Rank: 0.1513064897645501
+Iteration: 30
+Node ID: 0 Node name: A Page Rank: 0.2521271055651361
+Node ID: 1 Node name: B Page Rank: 0.13930618527479963
+Node ID: 2 Node name: C Page Rank: 0.15130648986038286
+Node ID: 3 Node name: D Page Rank: 0.11890782250386975
+Node ID: 4 Node name: E Page Rank: 0.18704590693542875
+Node ID: 5 Node name: F Page Rank: 0.15130648986038286
+Iteration: 31
+Node ID: 0 Node name: A Page Rank: 0.2521271053042952
+Node ID: 1 Node name: B Page Rank: 0.13930618537056372
+Node ID: 2 Node name: C Page Rank: 0.15130648989642248
+Node ID: 3 Node name: D Page Rank: 0.11890782256155763
+Node ID: 4 Node name: E Page Rank: 0.18704590697073842
+Node ID: 5 Node name: F Page Rank: 0.15130648989642248
+Iteration: 32
+Node ID: 0 Node name: A Page Rank: 0.25212710535677835
+Node ID: 1 Node name: B Page Rank: 0.13930618530687
+Node ID: 2 Node name: C Page Rank: 0.15130648985512613
+Node ID: 3 Node name: D Page Rank: 0.11890782259722435
+Node ID: 4 Node name: E Page Rank: 0.18704590702887505
+Node ID: 5 Node name: F Page Rank: 0.15130648985512613
+Iteration: 33
+Node ID: 0 Node name: A Page Rank: 0.25212710540207306
+Node ID: 1 Node name: B Page Rank: 0.1393061853100396
+Node ID: 2 Node name: C Page Rank: 0.15130648986404058
+Node ID: 3 Node name: D Page Rank: 0.11890782256613848
+Node ID: 4 Node name: E Page Rank: 0.18704590699366772
+Node ID: 5 Node name: F Page Rank: 0.15130648986404058
+Iteration: 34
+Node ID: 0 Node name: A Page Rank: 0.2521271053680668
+Node ID: 1 Node name: B Page Rank: 0.13930618532539885
+Node ID: 2 Node name: C Page Rank: 0.15130648987094186
+Node ID: 3 Node name: D Page Rank: 0.11890782257060067
+Node ID: 4 Node name: E Page Rank: 0.1870459069940499
+Node ID: 5 Node name: F Page Rank: 0.15130648987094186
+Iteration: 35
+Node ID: 0 Node name: A Page Rank: 0.25212710537129523
+Node ID: 1 Node name: B Page Rank: 0.13930618531771913
+Node ID: 2 Node name: C Page Rank: 0.1513064898655188
+Node ID: 3 Node name: D Page Rank: 0.11890782257679755
+Node ID: 4 Node name: E Page Rank: 0.18704590700315038
+Node ID: 5 Node name: F Page Rank: 0.1513064898655188
+Iteration: 36
+Node ID: 0 Node name: A Page Rank: 0.25212710537881095
+Node ID: 1 Node name: B Page Rank: 0.13930618531709732
+Node ID: 2 Node name: C Page Rank: 0.15130648986611844
+Node ID: 3 Node name: D Page Rank: 0.11890782257286081
+Node ID: 4 Node name: E Page Rank: 0.18704590699899393
+Node ID: 5 Node name: F Page Rank: 0.15130648986611844
+Iteration: 37
+Node ID: 0 Node name: A Page Rank: 0.2521271053746113
+Node ID: 1 Node name: B Page Rank: 0.13930618531939665
+Node ID: 2 Node name: C Page Rank: 0.1513064898672792
+Node ID: 3 Node name: D Page Rank: 0.11890782257298352
+Node ID: 4 Node name: E Page Rank: 0.18704590699844997
+Node ID: 5 Node name: F Page Rank: 0.1513064898672792
+Iteration: 38
+Node ID: 0 Node name: A Page Rank: 0.25212710537450395
+Node ID: 1 Node name: B Page Rank: 0.13930618531853567
+Node ID: 2 Node name: C Page Rank: 0.151306489866604
+Node ID: 3 Node name: D Page Rank: 0.11890782257396545
+Node ID: 4 Node name: E Page Rank: 0.1870459069997869
+Node ID: 5 Node name: F Page Rank: 0.151306489866604
+Iteration: 39
+Node ID: 0 Node name: A Page Rank: 0.2521271053756577
+Node ID: 1 Node name: B Page Rank: 0.13930618531831393
+Node ID: 2 Node name: C Page Rank: 0.15130648986659925
+Node ID: 3 Node name: D Page Rank: 0.11890782257349553
+Node ID: 4 Node name: E Page Rank: 0.1870459069993343
+Node ID: 5 Node name: F Page Rank: 0.15130648986659925
+Iteration: 40
+Node ID: 0 Node name: A Page Rank: 0.25212710537517175
+Node ID: 1 Node name: B Page Rank: 0.13930618531863947
+Node ID: 2 Node name: C Page Rank: 0.1513064898667792
+Node ID: 3 Node name: D Page Rank: 0.1189078225734464
+Node ID: 4 Node name: E Page Rank: 0.187045906999184
+Node ID: 5 Node name: F Page Rank: 0.1513064898667792
+Iteration: 41
+Node ID: 0 Node name: A Page Rank: 0.25212710537508454
+Node ID: 1 Node name: B Page Rank: 0.13930618531855277
+Node ID: 2 Node name: C Page Rank: 0.15130648986670023
+Node ID: 3 Node name: D Page Rank: 0.11890782257359205
+Node ID: 4 Node name: E Page Rank: 0.18704590699937015
+Node ID: 5 Node name: F Page Rank: 0.15130648986670023
+Iteration: 42
+Node ID: 0 Node name: A Page Rank: 0.25212710537525135
+Node ID: 1 Node name: B Page Rank: 0.1393061853185057
+Node ID: 2 Node name: C Page Rank: 0.15130648986668804
+Node ID: 3 Node name: D Page Rank: 0.11890782257354006
+Node ID: 4 Node name: E Page Rank: 0.18704590699932677
+Node ID: 5 Node name: F Page Rank: 0.15130648986668804
+Iteration: 43
+Node ID: 0 Node name: A Page Rank: 0.25212710537519994
+Node ID: 1 Node name: B Page Rank: 0.1393061853185495
+Node ID: 2 Node name: C Page Rank: 0.15130648986671424
+Node ID: 3 Node name: D Page Rank: 0.11890782257352488
+Node ID: 4 Node name: E Page Rank: 0.18704590699929707
+Node ID: 5 Node name: F Page Rank: 0.15130648986671424
+Iteration: 44
+Node ID: 0 Node name: A Page Rank: 0.2521271053751789
+Node ID: 1 Node name: B Page Rank: 0.13930618531854236
+Node ID: 2 Node name: C Page Rank: 0.15130648986670578
+Node ID: 3 Node name: D Page Rank: 0.11890782257354532
+Node ID: 4 Node name: E Page Rank: 0.18704590699932172
+Node ID: 5 Node name: F Page Rank: 0.15130648986670578
+Iteration: 45
+Node ID: 0 Node name: A Page Rank: 0.25212710537520183
+Node ID: 1 Node name: B Page Rank: 0.139306185318534
+Node ID: 2 Node name: C Page Rank: 0.15130648986670267
+Node ID: 3 Node name: D Page Rank: 0.11890782257354021
+Node ID: 4 Node name: E Page Rank: 0.18704590699931858
+Node ID: 5 Node name: F Page Rank: 0.15130648986670267
+Iteration: 46
+Node ID: 0 Node name: A Page Rank: 0.25212710537519717
+Node ID: 1 Node name: B Page Rank: 0.1393061853185396
+Node ID: 2 Node name: C Page Rank: 0.1513064898667063
+Node ID: 3 Node name: D Page Rank: 0.11890782257353712
+Node ID: 4 Node name: E Page Rank: 0.1870459069993135
+Node ID: 5 Node name: F Page Rank: 0.1513064898667063
+Iteration: 47
+Node ID: 0 Node name: A Page Rank: 0.25212710537519323
+Node ID: 1 Node name: B Page Rank: 0.13930618531853933
+Node ID: 2 Node name: C Page Rank: 0.1513064898667055
+Node ID: 3 Node name: D Page Rank: 0.11890782257353985
+Node ID: 4 Node name: E Page Rank: 0.1870459069993166
+Node ID: 5 Node name: F Page Rank: 0.1513064898667055
+Iteration: 48
+Node ID: 0 Node name: A Page Rank: 0.2521271053751962
+Node ID: 1 Node name: B Page Rank: 0.13930618531853797
+Node ID: 2 Node name: C Page Rank: 0.1513064898667049
+Node ID: 3 Node name: D Page Rank: 0.11890782257353945
+Node ID: 4 Node name: E Page Rank: 0.18704590699931656
+Node ID: 5 Node name: F Page Rank: 0.1513064898667049
+Iteration: 49
+Node ID: 0 Node name: A Page Rank: 0.25212710537519595
+Node ID: 1 Node name: B Page Rank: 0.13930618531853864
+Node ID: 2 Node name: C Page Rank: 0.1513064898667054
+Node ID: 3 Node name: D Page Rank: 0.11890782257353891
+Node ID: 4 Node name: E Page Rank: 0.18704590699931575
+Node ID: 5 Node name: F Page Rank: 0.1513064898667054
+Iteration: 50
+Node ID: 0 Node name: A Page Rank: 0.2521271053751953
+Node ID: 1 Node name: B Page Rank: 0.13930618531853872
+Node ID: 2 Node name: C Page Rank: 0.15130648986670536
+Node ID: 3 Node name: D Page Rank: 0.11890782257353925
+Node ID: 4 Node name: E Page Rank: 0.1870459069993161
+Node ID: 5 Node name: F Page Rank: 0.15130648986670536
+Iteration: 51
+Node ID: 0 Node name: A Page Rank: 0.2521271053751956
+Node ID: 1 Node name: B Page Rank: 0.1393061853185385
+Node ID: 2 Node name: C Page Rank: 0.15130648986670522
+Node ID: 3 Node name: D Page Rank: 0.11890782257353925
+Node ID: 4 Node name: E Page Rank: 0.18704590699931617
+Node ID: 5 Node name: F Page Rank: 0.15130648986670522
+Iteration: 52
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.13930618531853856
+Node ID: 2 Node name: C Page Rank: 0.15130648986670528
+Node ID: 3 Node name: D Page Rank: 0.11890782257353916
+Node ID: 4 Node name: E Page Rank: 0.18704590699931606
+Node ID: 5 Node name: F Page Rank: 0.15130648986670528
+Iteration: 53
+Node ID: 0 Node name: A Page Rank: 0.25212710537519556
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353918
+Node ID: 4 Node name: E Page Rank: 0.1870459069993161
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 54
+Node ID: 0 Node name: A Page Rank: 0.2521271053751956
+Node ID: 1 Node name: B Page Rank: 0.13930618531853858
+Node ID: 2 Node name: C Page Rank: 0.15130648986670528
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.15130648986670528
+Iteration: 55
+Node ID: 0 Node name: A Page Rank: 0.2521271053751956
+Node ID: 1 Node name: B Page Rank: 0.13930618531853858
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.1189078225735392
+Node ID: 4 Node name: E Page Rank: 0.1870459069993161
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 56
+Node ID: 0 Node name: A Page Rank: 0.2521271053751956
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.1870459069993161
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 57
+Node ID: 0 Node name: A Page Rank: 0.2521271053751956
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 58
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 59
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 60
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 61
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 62
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 63
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 64
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 65
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 66
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 67
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 68
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 69
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 70
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 71
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 72
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 73
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 74
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 75
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 76
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 77
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 78
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 79
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 80
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 81
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 82
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 83
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 84
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 85
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 86
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 87
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 88
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 89
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 90
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 91
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 92
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 93
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 94
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 95
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 96
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 97
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 98
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 99
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053
+Iteration: 100
+Node ID: 0 Node name: A Page Rank: 0.25212710537519567
+Node ID: 1 Node name: B Page Rank: 0.1393061853185386
+Node ID: 2 Node name: C Page Rank: 0.1513064898667053
+Node ID: 3 Node name: D Page Rank: 0.11890782257353921
+Node ID: 4 Node name: E Page Rank: 0.18704590699931614
+Node ID: 5 Node name: F Page Rank: 0.1513064898667053

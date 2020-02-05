@@ -1,0 +1,3 @@
+Proportion of Websites without Inlinks: 0.26153633041013563
+Proportion of Websites without outlinks: 0.6106641661427643
+Proportion of Page Rank less than the original: 0.9499888115762891
